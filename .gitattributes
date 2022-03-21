@@ -1,5 +1,5 @@
 *.json filter=lfs diff=lfs merge=lfs -text
-local_word_embeddings.model.wv.vectors.npy filter=lfs diff=lfs merge=lfs -text
-local_word_embeddings.model.syn1neg.npy filter=lfs diff=lfs merge=lfs -text
+processed_data/local_word_embeddings.model.wv.vectors.npy filter=lfs diff=lfs merge=lfs -text
+processed_data/local_word_embeddings.model.syn1neg.npy filter=lfs diff=lfs merge=lfs -text
 *.model filter=lfs diff=lfs merge=lfs -text
 *.npy filter=lfs diff=lfs merge=lfs -text
