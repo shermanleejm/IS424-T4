@@ -1,1 +1,3 @@
-*.csv
+covid19_articles_20201231.csv
+local_word_embeddings**
+processed_data/*
