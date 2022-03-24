@@ -1,6 +1,7 @@
 covid19_articles_20201231.csv
 local_word_embeddings**
 processed_data/*
+!processed_data/.gitkeep
 *.zip
 *.csv
 .DS_Store
