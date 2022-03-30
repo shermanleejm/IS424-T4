@@ -5,3 +5,4 @@ processed_data/*
 *.zip
 *.csv
 .DS_Store
+saved_models/bert/variables/*
